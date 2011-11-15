@@ -1,3 +1,5 @@
+FROM http://code.google.com/p/nginx-sticky-module
+
 Nginx Sticky Module 
 --
 
