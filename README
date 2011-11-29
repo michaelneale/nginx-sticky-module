@@ -1,4 +1,4 @@
-FROM http://code.google.com/p/nginx-sticky-module
+FROM http://code.google.com/p/nginx-sticky-module/source/browse/tags/1_0
 
 Nginx Sticky Module 
 --
